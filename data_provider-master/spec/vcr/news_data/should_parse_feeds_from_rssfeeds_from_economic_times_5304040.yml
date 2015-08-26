@@ -1,0 +1,429 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://economictimes.feedsportal.com/c/33041/f/534040/index.rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - FeedsPortal
+      Set-Cookie:
+      - MF2=3073gvjlv8p; domain=.feedsportal.com; expires=Sat, 14-Jun-14 07:18:44
+        GMT; path=/
+      Etag:
+      - '1337002950000'
+      Last-Modified:
+      - Mon, 14 May 2012 13:42:30 GMT
+      Content-Type:
+      - text/xml;charset=UTF-8
+      Content-Length:
+      - '54199'
+      Date:
+      - Thu, 14 Jun 2012 07:18:44 GMT
+      Connection:
+      - close
+    body:
+      encoding: ASCII-8BIT
+      string: ! "<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl'
+        href='http://economictimes.feedsportal.com/xsl/eng/rss.xsl'?>\r\n<rss xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\"
+        xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\"
+        xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:atom=\"http://www.w3.org/2005/Atom\"
+        version=\"2.0\"><channel><atom:link href=\"http://economictimes.indiatimes.com/rssfeeds/14655708.cms\"
+        rel=\"self\" type=\"application/rss+xml\" /><title>IPOs/FPOs/Rights issues-Markets-The
+        Economic Times</title><link>http://economictimes.indiatimes.com</link><description>News
+        of India company IPOs, IPO listings, IPO Allotment, FPO, Offer Document, FPOs,
+        Red Herring Prospectus, IPO Subscription, IPO Analysis, IPOs, Rights issues,
+        Lead Manager, IPO rating, IPO issue open and close dates and Sebi on IPOs.</description><language>en-gb</language><copyright>Copyright:(C)Tue
+        12 Jun 2012, 13:50:492012Tue 12 Jun 2012, 13:50:512012 Bennett Coleman &amp;
+        Co. Ltd, http://info.indiatimes.com/terms/tou.html</copyright><pubDate>Tue,
+        12 Jun 2012 08:20:49 GMT</pubDate><lastBuildDate>Tue, 12 Jun 2012 08:20:49
+        GMT</lastBuildDate><ttl>2</ttl><image><title>IPOs/FPOs/Rights issues-Markets-The
+        Economic Times</title><url>http://images.photogallery.indiatimes.com/photo.cms?msid=86986</url><link>http://economictimes.indiatimes.com</link></image><item><title>Speciality
+        Restaurants fixes IPO price band at Rs 146-155</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0ZbXKa2NA/story01.htm</link><description>Fine
+        dine operator Speciality Restaurants fixed the price band at Rs 146-155 for
+        its initial public offering (IPO), which aims to garner Rs 182 crore.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1f5bec88/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Speciality+Restaurants+fixes+IPO+price+band+at+Rs+146-155&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fspeciality-restaurants-fixes-ipo-price-band-at-rs-146-155%2Farticleshow%2F13136767.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Speciality+Restaurants+fixes+IPO+price+band+at+Rs+146-155&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fspeciality-restaurants-fixes-ipo-price-band-at-rs-146-155%2Farticleshow%2F13136767.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/134204464965/u/0/f/534040/c/33041/s/1f5bec88/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/134204464965/u/0/f/534040/c/33041/s/1f5bec88/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/134204464965/u/0/f/534040/c/33041/s/1f5bec88/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Mon, 14 May 2012 13:42:30 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/speciality-restaurants-fixes-ipo-price-band-at-rs-146-155/articleshow/13136767.cms</guid></item><item><title>High
+        risk appetite investors can consider Plastene India IPO: SMC</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0ZQJjG2LG/story01.htm</link><description>SMC
+        Investments and Advisors is of the view that investors with a high risk appetite
+        can consider subscribing to the initial public offering of Plastene India.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1f331fa2/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=High+risk+appetite+investors+can+consider+Plastene+India+IPO%3A+SMC&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fhigh-risk-appetite-investors-can-consider-plastene-india-ipo-smc%2Farticleshow%2F13066039.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=High+risk+appetite+investors+can+consider+Plastene+India+IPO%3A+SMC&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fhigh-risk-appetite-investors-can-consider-plastene-india-ipo-smc%2Farticleshow%2F13066039.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/134204267946/u/0/f/534040/c/33041/s/1f331fa2/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/134204267946/u/0/f/534040/c/33041/s/1f331fa2/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/134204267946/u/0/f/534040/c/33041/s/1f331fa2/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Wed, 09 May 2012 11:26:20 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/high-risk-appetite-investors-can-consider-plastene-india-ipo-smc/articleshow/13066039.cms</guid></item><item><title>Samvardhana
+        Motherson Finance withdraws Rs 1,665-crore IPO</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0ZDRbN2JB/story01.htm</link><description>The
+        issue, which opened on May 2, was subscribed just 0.38 times till 7 pm on
+        the closing day according to the NSE website.&lt;img width='1' height='1'
+        src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1f044f41/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+Finance+withdraws+Rs+1%2C665-crore+IPO&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-withdraws-rs-1665-crore-ipo%2Farticleshow%2F13002562.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+Finance+withdraws+Rs+1%2C665-crore+IPO&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-withdraws-rs-1665-crore-ipo%2Farticleshow%2F13002562.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515226129/u/0/f/534040/c/33041/s/1f044f41/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515226129/u/0/f/534040/c/33041/s/1f044f41/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515226129/u/0/f/534040/c/33041/s/1f044f41/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Fri, 04 May 2012 21:34:49 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-finance-withdraws-rs-1665-crore-ipo/articleshow/13002562.cms</guid></item><item><title>Samvardhana
+        Motherson Finance withdraws Rs 1,665 crore IPO: Report</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0ZCXl22J3/story01.htm</link><description>&lt;a
+        href=\"http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-finance-withdraws-rs-1665-crore-ipo-report/articleshow/12996298.cms\"&gt;&lt;img
+        border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\"
+        src=\"http://timesofindia.indiatimes.com/photo/12996298.cms\" /&gt;&lt;/a&gt;The
+        share offering was covered just 0.23 times of the total book size by 4 p.m.
+        on Friday, the last day of bidding, according to stock exchange data.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1f0108b8/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+Finance+withdraws+Rs+1%2C665+crore+IPO%3A+Report&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-withdraws-rs-1665-crore-ipo-report%2Farticleshow%2F12996298.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+Finance+withdraws+Rs+1%2C665+crore+IPO%3A+Report&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-withdraws-rs-1665-crore-ipo-report%2Farticleshow%2F12996298.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515211022/u/0/f/534040/c/33041/s/1f0108b8/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515211022/u/0/f/534040/c/33041/s/1f0108b8/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515211022/u/0/f/534040/c/33041/s/1f0108b8/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Fri, 04 May 2012 12:31:51 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-finance-withdraws-rs-1665-crore-ipo-report/articleshow/12996298.cms</guid></item><item><title>Samvardhana
+        Motherson withdraws $311 mn IPO: Sources</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0ZCUvG2J3/story01.htm</link><description>Samvardhana
+        Motherson Finance Ltd has withdrawn its initial public offering of shares
+        to raise about Rs 16.65 billion due to poor demand.&lt;img width='1' height='1'
+        src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1f00de26/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+withdraws+%24311+mn+IPO%3A+Sources&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-withdraws-311-mn-ipo-sources%2Farticleshow%2F12996298.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+withdraws+%24311+mn+IPO%3A+Sources&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-withdraws-311-mn-ipo-sources%2Farticleshow%2F12996298.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515207311/u/0/f/534040/c/33041/s/1f00de26/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515207311/u/0/f/534040/c/33041/s/1f00de26/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515207311/u/0/f/534040/c/33041/s/1f00de26/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Fri, 04 May 2012 12:31:51 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-withdraws-311-mn-ipo-sources/articleshow/12996298.cms</guid></item><item><title>Samvardhana
+        Motherson IPO subscribed 14%; analysts recommend 'avoid'</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0ZBsIg2Iy/story01.htm</link><description>Samvardhana
+        Motherson Finance Ltd's (SMFL)initial public offering (IPO)was subscribed
+        14 percent on the third day of the issue today.&lt;img width='1' height='1'
+        src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1efe9a36/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+IPO+subscribed+14%25%3B+analysts+recommend+%27avoid%27&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-ipo-subscribed-14-analysts-recommend-avoid%2Farticleshow%2F12993223.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+IPO+subscribed+14%25%3B+analysts+recommend+%27avoid%27&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-ipo-subscribed-14-analysts-recommend-avoid%2Farticleshow%2F12993223.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515194928/u/0/f/534040/c/33041/s/1efe9a36/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515194928/u/0/f/534040/c/33041/s/1efe9a36/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515194928/u/0/f/534040/c/33041/s/1efe9a36/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Fri, 04 May 2012 07:48:28 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-ipo-subscribed-14-analysts-recommend-avoid/articleshow/12993223.cms</guid></item><item><title>Samvardhana
+        Motherson Finance IPO subscribed 9% on the second day</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0ZAUGh2Ii/story01.htm</link><description>Samvardhana
+        Motherson Finance Ltd's (SMFL) initial public offer (IPO) was subscribed 9
+        per cent on the second day of the issue today.&lt;img width='1' height='1'
+        src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ef98e63/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+Finance+IPO+subscribed+9%25+on+the+second+day&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-ipo-subscribed-9-on-the-second-day%2Farticleshow%2F12985016.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+Finance+IPO+subscribed+9%25+on+the+second+day&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-ipo-subscribed-9-on-the-second-day%2Farticleshow%2F12985016.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515174360/u/0/f/534040/c/33041/s/1ef98e63/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515174360/u/0/f/534040/c/33041/s/1ef98e63/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515174360/u/0/f/534040/c/33041/s/1ef98e63/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Thu, 03 May 2012 16:34:22 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-finance-ipo-subscribed-9-on-the-second-day/articleshow/12985016.cms</guid></item><item><title>Plastene
+        India to launch IPO on May 9</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Z9gCp2Ic/story01.htm</link><description>The
+        Ahmedabad-based company is entering the capital market with a public issue
+        of 92,55,290 shares in the Rs 81-84 per equity share price band.&lt;img width='1'
+        height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ef69eab/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Plastene+India+to+launch+IPO+on+May+9&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fplastene-india-to-launch-ipo-on-may-9%2Farticleshow%2F12980116.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Plastene+India+to+launch+IPO+on+May+9&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fplastene-india-to-launch-ipo-on-may-9%2Farticleshow%2F12980116.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515157883/u/0/f/534040/c/33041/s/1ef69eab/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515157883/u/0/f/534040/c/33041/s/1ef69eab/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515157883/u/0/f/534040/c/33041/s/1ef69eab/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Thu, 03 May 2012 10:22:02 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/plastene-india-to-launch-ipo-on-may-9/articleshow/12980116.cms</guid></item><item><title>Samvardhana
+        Motherson Finance IPO subscribed 3 pc on first day</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Z7odw2IJ/story01.htm</link><description>The
+        IPO of auto parts maker Samvardhana Motherson Finance Ltd (SMFL) got subscribed
+        three per cent on the first day today.&lt;img width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1eefd76c/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+Finance+IPO+subscribed+3+pc+on+first+day&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-ipo-subscribed-3-pc-on-first-day%2Farticleshow%2F12968104.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+Finance+IPO+subscribed+3+pc+on+first+day&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-ipo-subscribed-3-pc-on-first-day%2Farticleshow%2F12968104.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515123522/u/0/f/534040/c/33041/s/1eefd76c/kg/315-326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515123522/u/0/f/534040/c/33041/s/1eefd76c/kg/315-326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515123522/u/0/f/534040/c/33041/s/1eefd76c/kg/315-326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Wed, 02 May 2012 15:23:04 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-finance-ipo-subscribed-3-pc-on-first-day/articleshow/12968104.cms</guid></item><item><title>Avoid
+        Samvardhana Motherson Finance IPO: Angel Broking</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Z7BPg2IF/story01.htm</link><description>Valuations
+        do not provide a sufficient margin of safety to investors, the brokerage said.
+        It arrived at a value of Rs 97/share against the IPO price band of Rs 113-118.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1eed8a5c/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Avoid+Samvardhana+Motherson+Finance+IPO%3A+Angel+Broking&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Favoid-samvardhana-motherson-finance-ipo-angel-broking%2Farticleshow%2F12964808.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Avoid+Samvardhana+Motherson+Finance+IPO%3A+Angel+Broking&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Favoid-samvardhana-motherson-finance-ipo-angel-broking%2Farticleshow%2F12964808.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515112732/u/0/f/534040/c/33041/s/1eed8a5c/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515112732/u/0/f/534040/c/33041/s/1eed8a5c/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515112732/u/0/f/534040/c/33041/s/1eed8a5c/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Wed, 02 May 2012 11:05:02 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/avoid-samvardhana-motherson-finance-ipo-angel-broking/articleshow/12964808.cms</guid></item><item><title>All
+        eyes on Samvardhana Motherson Finance's 1,665-crore IPO</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Z5wyQ2I2/story01.htm</link><description>The
+        IPO is a combination of fresh issue of equity shares and an offer for sale
+        from a promoter group entity and has been priced at 113-118 a share.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ee90e92/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=All+eyes+on+Samvardhana+Motherson+Finance%27s+1%2C665-crore+IPO&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fall-eyes-on-samvardhana-motherson-finances-1665-crore-ipo%2Farticleshow%2F12957797.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=All+eyes+on+Samvardhana+Motherson+Finance%27s+1%2C665-crore+IPO&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fall-eyes-on-samvardhana-motherson-finances-1665-crore-ipo%2Farticleshow%2F12957797.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133515084698/u/0/f/534040/c/33041/s/1ee90e92/kg/326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133515084698/u/0/f/534040/c/33041/s/1ee90e92/kg/326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133515084698/u/0/f/534040/c/33041/s/1ee90e92/kg/326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Tue, 01 May 2012 22:16:04 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/all-eyes-on-samvardhana-motherson-finances-1665-crore-ipo/articleshow/12957797.cms</guid></item><item><title>Samvardhana
+        Motherson raises Rs 222 cr from anchor investors</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Z3hUw2HZ/story01.htm</link><description>As
+        per NSE data, Government of Singapore purchased over 66 lakh shares in a transaction
+        worth about Rs 78 crore.&lt;img width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ee0e042/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+raises+Rs+222+cr+from+anchor+investors&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-raises-rs-222-cr-from-anchor-investors%2Farticleshow%2F12941119.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+raises+Rs+222+cr+from+anchor+investors&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-raises-rs-222-cr-from-anchor-investors%2Farticleshow%2F12941119.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133339064723/u/0/f/534040/c/33041/s/1ee0e042/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133339064723/u/0/f/534040/c/33041/s/1ee0e042/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133339064723/u/0/f/534040/c/33041/s/1ee0e042/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Tue, 01 May 2012 06:37:57 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-raises-rs-222-cr-from-anchor-investors/articleshow/12941119.cms</guid></item><item><title>RINL
+        to file draft prospectus for IPO shortly</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Z3ZX12HY/story01.htm</link><description>State-owned
+        Rashtriya Ispat Nigam has already initiated the IPO process and has appointed
+        four merchant bankers to manage the issue.&lt;img width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ee068a3/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=RINL+to+file+draft+prospectus+for+IPO+shortly&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Frinl-to-file-draft-prospectus-for-ipo-shortly%2Farticleshow%2F12939259.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=RINL+to+file+draft+prospectus+for+IPO+shortly&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Frinl-to-file-draft-prospectus-for-ipo-shortly%2Farticleshow%2F12939259.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133338870512/u/0/f/534040/c/33041/s/1ee068a3/kg/322/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133338870512/u/0/f/534040/c/33041/s/1ee068a3/kg/322/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133338870512/u/0/f/534040/c/33041/s/1ee068a3/kg/322/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Mon, 30 Apr 2012 15:40:06 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/rinl-to-file-draft-prospectus-for-ipo-shortly/articleshow/12939259.cms</guid></item><item><title>GIC
+        planning IPO to raise funds amid strained resources</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Z1xEP2HE/story01.htm</link><description>General
+        Insurance Corp of India is deliberating an initial public offering to raise
+        funds amid strained resources and help government meet its divestment target.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1eda8691/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=GIC+planning+IPO+to+raise+funds+amid+strained+resources&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fgic-planning-ipo-to-raise-funds-amid-strained-resources%2Farticleshow%2F12928643.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=GIC+planning+IPO+to+raise+funds+amid+strained+resources&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fgic-planning-ipo-to-raise-funds-amid-strained-resources%2Farticleshow%2F12928643.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/133338846499/u/0/f/534040/c/33041/s/1eda8691/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/133338846499/u/0/f/534040/c/33041/s/1eda8691/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/133338846499/u/0/f/534040/c/33041/s/1eda8691/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Sun, 29 Apr 2012 20:01:22 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/gic-planning-ipo-to-raise-funds-amid-strained-resources/articleshow/12928643.cms</guid></item><item><title>Samvardhana
+        Motherson Finance prices IPO at Rs 113-118</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Yzfxl2Ge/story01.htm</link><description>The
+        auto parts maker set a price band of Rs 113-118 a share for its Rs 1,665-crore
+        offering that will hit the market on May 2. The issue closes on May 4.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ed23d55/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+Finance+prices+IPO+at+Rs+113-118&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-prices-ipo-at-rs-113-118%2Farticleshow%2F12899724.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+Finance+prices+IPO+at+Rs+113-118&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-prices-ipo-at-rs-113-118%2Farticleshow%2F12899724.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132918428288/u/0/f/534040/c/33041/s/1ed23d55/kg/306-326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132918428288/u/0/f/534040/c/33041/s/1ed23d55/kg/306-326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132918428288/u/0/f/534040/c/33041/s/1ed23d55/kg/306-326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Fri, 27 Apr 2012 15:51:43 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-finance-prices-ipo-at-rs-113-118/articleshow/12899724.cms</guid></item><item><title>Samvardhana
+        Motherson Finance fixes IPO price at Rs 113-118</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0YyUDM2GO/story01.htm</link><description>The
+        public issue, which closes on May 4, includes a fresh issue of Rs 1,344 crore
+        and an Offer For Sale (OFS) of Rs 321 crore by Radha Rani Holdings Pte Limited.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ecde9f4/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+Finance+fixes+IPO+price+at+Rs+113-118&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-fixes-ipo-price-at-rs-113-118%2Farticleshow%2F12899724.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+Finance+fixes+IPO+price+at+Rs+113-118&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-fixes-ipo-price-at-rs-113-118%2Farticleshow%2F12899724.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132918406665/u/0/f/534040/c/33041/s/1ecde9f4/kg/306-326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132918406665/u/0/f/534040/c/33041/s/1ecde9f4/kg/306-326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132918406665/u/0/f/534040/c/33041/s/1ecde9f4/kg/306-326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Fri, 27 Apr 2012 15:51:43 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-finance-fixes-ipo-price-at-rs-113-118/articleshow/12899724.cms</guid></item><item><title>HNIs,
+        institutions help TBZ issue scrape through</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0YwWSk2G5/story01.htm</link><description>The
+        initial public offering (IPO) of Tribhovandas Bhimji Zaveri (TBZ) managed
+        to scrape through on the final day, thanks to last minute bids from high net
+        worth and institutional investors.&lt;img width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ec6c5c6/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=HNIs%2C+institutions+help+TBZ+issue+scrape+through&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fhnis-institutions-help-tbz-issue-scrape-through%2Farticleshow%2F12887826.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=HNIs%2C+institutions+help+TBZ+issue+scrape+through&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fhnis-institutions-help-tbz-issue-scrape-through%2Farticleshow%2F12887826.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733328667/u/0/f/534040/c/33041/s/1ec6c5c6/kg/306/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733328667/u/0/f/534040/c/33041/s/1ec6c5c6/kg/306/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733328667/u/0/f/534040/c/33041/s/1ec6c5c6/kg/306/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Thu, 26 Apr 2012 21:14:59 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/hnis-institutions-help-tbz-issue-scrape-through/articleshow/12887826.cms</guid></item><item><title>Tribhovandas
+        Zaveri IPO over subscribed 1.14 times on last day</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Yw32C2G0/story01.htm</link><description>Jewellery
+        retailer Tribhovandas Bhimji Zaveri's (TBZ) Rs 210-crore initial public offer
+        was over subscribed 1.14 times on the last day of the issue today.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ec50be4/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Tribhovandas+Zaveri+IPO+over+subscribed+1.14+times+on+last+day&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftribhovandas-zaveri-ipo-over-subscribed-1-14-times-on-last-day%2Farticleshow%2F12884277.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Tribhovandas+Zaveri+IPO+over+subscribed+1.14+times+on+last+day&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftribhovandas-zaveri-ipo-over-subscribed-1-14-times-on-last-day%2Farticleshow%2F12884277.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733276273/u/0/f/534040/c/33041/s/1ec50be4/kg/306/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733276273/u/0/f/534040/c/33041/s/1ec50be4/kg/306/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733276273/u/0/f/534040/c/33041/s/1ec50be4/kg/306/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Thu, 26 Apr 2012 17:03:16 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/tribhovandas-zaveri-ipo-over-subscribed-1-14-times-on-last-day/articleshow/12884277.cms</guid></item><item><title>Samvardhana
+        sets price band for $317 million IPO: Sources</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Yw32G2G0/story01.htm</link><description>Samvardhana
+        Motherson's public offering of shares will be launched on Wednesday and will
+        close two days later.&lt;img width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ec50be8/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+sets+price+band+for+%24317+million+IPO%3A+Sources&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-sets-price-band-for-317-million-ipo-sources%2Farticleshow%2F12884168.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+sets+price+band+for+%24317+million+IPO%3A+Sources&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-sets-price-band-for-317-million-ipo-sources%2Farticleshow%2F12884168.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733276272/u/0/f/534040/c/33041/s/1ec50be8/kg/306/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733276272/u/0/f/534040/c/33041/s/1ec50be8/kg/306/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733276272/u/0/f/534040/c/33041/s/1ec50be8/kg/306/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Thu, 26 Apr 2012 16:21:24 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-sets-price-band-for-317-million-ipo-sources/articleshow/12884168.cms</guid></item><item><title>Tribhovandas
+        Zaveri IPO subscribed 20% on Day 2</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0YtLjZ2Fb/story01.htm</link><description>The
+        Rs 210-crore initial public offer of jewellery retailer Tribhovandas Bhimji
+        Zaveri's (TBZ) was subscribed 20 per cent on the second day of the issue today.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1ebb3bc5/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Tribhovandas+Zaveri+IPO+subscribed+20%25+on+Day+2&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftribhovandas-zaveri-ipo-subscribed-20-on-day-2%2Farticleshow%2F12869484.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Tribhovandas+Zaveri+IPO+subscribed+20%25+on+Day+2&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftribhovandas-zaveri-ipo-subscribed-20-on-day-2%2Farticleshow%2F12869484.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733271807/u/0/f/534040/c/33041/s/1ebb3bc5/kg/306/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733271807/u/0/f/534040/c/33041/s/1ebb3bc5/kg/306/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733271807/u/0/f/534040/c/33041/s/1ebb3bc5/kg/306/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Wed, 25 Apr 2012 16:51:40 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/tribhovandas-zaveri-ipo-subscribed-20-on-day-2/articleshow/12869484.cms</guid></item><item><title>Tribhovandas
+        Zaveri IPO subscribed 10%</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0YsUXW2FV/story01.htm</link><description>Jewellery
+        retailer Tribhovandas Bhimji Zaveri's (TBZ) initial public offer was subscribed
+        10 per cent till 1400 hrs on the second day of the issue today.&lt;img width='1'
+        height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1eb81d06/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Tribhovandas+Zaveri+IPO+subscribed+10%25&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftribhovandas-zaveri-ipo-subscribed-10%2Farticleshow%2F12865612.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Tribhovandas+Zaveri+IPO+subscribed+10%25&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftribhovandas-zaveri-ipo-subscribed-10%2Farticleshow%2F12865612.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733212910/u/0/f/534040/c/33041/s/1eb81d06/kg/306/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733212910/u/0/f/534040/c/33041/s/1eb81d06/kg/306/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733212910/u/0/f/534040/c/33041/s/1eb81d06/kg/306/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Wed, 25 Apr 2012 09:32:17 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/tribhovandas-zaveri-ipo-subscribed-10/articleshow/12865612.cms</guid></item><item><title>Samvardhana
+        Motherson Finance to raise Rs 1,665 cr through IPO</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0YqLle2FA/story01.htm</link><description>Samvardhana
+        Motherson Finance (SMFL), components supplier to automotive industry is raising
+        Rs 1,665 crore through public issue, which includes a fresh issue of Rs 1,344
+        crore.&lt;img width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1eb0535e/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Samvardhana+Motherson+Finance+to+raise+Rs+1%2C665+cr+through+IPO&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-to-raise-rs-1665-cr-through-ipo%2Farticleshow%2F12853092.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Samvardhana+Motherson+Finance+to+raise+Rs+1%2C665+cr+through+IPO&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Fsamvardhana-motherson-finance-to-raise-rs-1665-cr-through-ipo%2Farticleshow%2F12853092.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733174522/u/0/f/534040/c/33041/s/1eb0535e/kg/306-326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733174522/u/0/f/534040/c/33041/s/1eb0535e/kg/306-326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733174522/u/0/f/534040/c/33041/s/1eb0535e/kg/306-326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Tue, 24 Apr 2012 12:34:52 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/samvardhana-motherson-finance-to-raise-rs-1665-cr-through-ipo/articleshow/12853092.cms</guid></item><item><title>TBZ
+        IPO: Investors should wait and watch, says Fairwealth Securities</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0YpG4J2F3/story01.htm</link><description>Investors
+        would be better off to wait and watch as to how the company actually delivers
+        on its expansion plans, relook at the factors and then take a call.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1eac5ad3/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=TBZ+IPO%3A+Investors+should+wait+and+watch%2C+says+Fairwealth+Securities&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftbz-ipo-investors-should-wait-and-watch-says-fairwealth-securities%2Farticleshow%2F12847460.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=TBZ+IPO%3A+Investors+should+wait+and+watch%2C+says+Fairwealth+Securities&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftbz-ipo-investors-should-wait-and-watch-says-fairwealth-securities%2Farticleshow%2F12847460.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733190149/u/0/f/534040/c/33041/s/1eac5ad3/kg/306-326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733190149/u/0/f/534040/c/33041/s/1eac5ad3/kg/306-326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733190149/u/0/f/534040/c/33041/s/1eac5ad3/kg/306-326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Tue, 24 Apr 2012 04:37:25 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/tbz-ipo-investors-should-wait-and-watch-says-fairwealth-securities/articleshow/12847460.cms</guid></item><item><title>Tribhovandas
+        Bhimji Zaveri IPO: what analysts recommend</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0YpG4N2F3/story01.htm</link><description>Tribhovandas
+        Bhimji Zaveri (TBZ), an organised jewellery retailer, is coming out with an
+        initial public offer of 16,666,667 equity shares to raise Rs 210 crore.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1eac5ad7/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=Tribhovandas+Bhimji+Zaveri+IPO%3A+what+analysts+recommend&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftribhovandas-bhimji-zaveri-ipo-what-analysts-recommend%2Farticleshow%2F12847386.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=Tribhovandas+Bhimji+Zaveri+IPO%3A+what+analysts+recommend&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Ftribhovandas-bhimji-zaveri-ipo-what-analysts-recommend%2Farticleshow%2F12847386.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733190148/u/0/f/534040/c/33041/s/1eac5ad7/kg/306/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733190148/u/0/f/534040/c/33041/s/1eac5ad7/kg/306/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733190148/u/0/f/534040/c/33041/s/1eac5ad7/kg/306/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Tue, 24 Apr 2012 04:25:16 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/tribhovandas-bhimji-zaveri-ipo-what-analysts-recommend/articleshow/12847386.cms</guid></item><item><title>‘Avoid’
+        Tribhovandas Bhimji Zaveri IPO: KR Choksey</title><link>http://economictimes.feedsportal.com/fy/8av2EvY0Yp9IY2F2/story01.htm</link><description>TBZ
+        has not identified exact locations for the proposed expansion in stores which
+        could delay or increase costs and, consequently, affect the business.&lt;img
+        width='1' height='1' src='http://economictimes.feedsportal.com/c/33041/f/534040/s/1eabf52a/mf.gif'
+        border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table border='0'&gt;&lt;tr&gt;&lt;td
+        valign='middle'&gt;&lt;a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=%E2%80%98Avoid%E2%80%99+Tribhovandas+Bhimji+Zaveri+IPO%3A+KR+Choksey&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Favoid-tribhovandas-bhimji-zaveri-ipo-kr-choksey%2Farticleshow%2F12835437.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/emailthis2.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='middle'&gt;&lt;a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=%E2%80%98Avoid%E2%80%99+Tribhovandas+Bhimji+Zaveri+IPO%3A+KR+Choksey&amp;link=http%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fipos%2Ffpos%2Frights-issues%2Favoid-tribhovandas-bhimji-zaveri-ipo-kr-choksey%2Farticleshow%2F12835437.cms\"
+        target=\"_blank\"&gt;&lt;img src=\"http://res3.feedsportal.com/images/bookmark.gif\"
+        border=\"0\" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+        href=\"http://da.feedsportal.com/r/132733189742/u/0/f/534040/c/33041/s/1eabf52a/kg/306-326-327/a2.htm\"&gt;&lt;img
+        src=\"http://da.feedsportal.com/r/132733189742/u/0/f/534040/c/33041/s/1eabf52a/kg/306-326-327/a2.img\"
+        border=\"0\"/&gt;&lt;/a&gt;&lt;img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/132733189742/u/0/f/534040/c/33041/s/1eabf52a/kg/306-326-327/a2t.img\"
+        border=\"0\"/&gt;</description><pubDate>Mon, 23 Apr 2012 08:02:22 GMT</pubDate><guid
+        isPermaLink=\"false\">http://economictimes.indiatimes.com/markets/ipos/fpos/rights-issues/avoid-tribhovandas-bhimji-zaveri-ipo-kr-choksey/articleshow/12835437.cms</guid></item></channel></rss>\r\n"
+    http_version: 
+  recorded_at: Thu, 14 Jun 2012 07:18:51 GMT
+recorded_with: VCR 2.2.0
